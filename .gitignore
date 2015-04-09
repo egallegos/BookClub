@@ -1,5 +1,4 @@
 *~
 *.tgz	
-.c9/*
-bower_components/*
-
+/bower_components
+/.c9
