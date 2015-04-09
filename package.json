@@ -1,15 +1,7 @@
 {
-  "name": "BookClub",
-  "version": "1.0.0",
-  "description": "Excercise for Irondata bookclub",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Erick Gallegos",
-  "license": "MIT",
+  "name": "bookclub",
+  "version": "0.0.1",
   "dependencies": {
-    "bower": "^1.4.1",
     "express": "^4.12.3"
   }
 }
